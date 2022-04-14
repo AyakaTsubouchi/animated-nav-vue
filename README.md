@@ -1,4 +1,5 @@
 # Vue header & BalmUI practice
+ ![screenshot](/assets/screenshot.gif)
 Reference:[How to create an animated Vue sidebar](https://regenrek.com/posts/how-to-create-an-animated-vue-sidebar-menu-with-vue-observable/)
 
 ## What I learned
